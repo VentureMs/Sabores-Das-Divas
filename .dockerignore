@@ -1,0 +1,8 @@
+.git
+.env
+*.sqlite3
+*.sqlite3-*
+data
+backups
+__pycache__
+*.zip

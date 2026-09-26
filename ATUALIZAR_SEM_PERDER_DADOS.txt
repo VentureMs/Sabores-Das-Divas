@@ -1,0 +1,30 @@
+ATUALIZAÇÃO DO SABORES DAS DIVAS — PRESERVANDO A BASE EXISTENTE
+
+1. Encerre o sistema. No Windows, pressione Ctrl+C na janela do servidor e espere encerrar.
+   Em servidor online, interrompa também o processo/contêiner da aplicação antes da troca.
+2. Faça uma cópia da pasta data/ inteira, incluindo o banco sabores.sqlite3 e eventuais
+   arquivos -wal e -shm. Se estiver em Docker, crie antes um backup consistente com a
+   rotina `python server.py backup` ou pela rotina de backup do serviço.
+3. Extraia o ZIP de atualização. Copie server.py e a pasta web para o diretório da
+   instalação atual, aceitando substituição dos arquivos de programa.
+   NÃO substitua nem apague a pasta data/; NÃO execute a importação de clientes iniciais
+   para substituir registros de produção.
+4. Inicie o sistema normalmente. O banco existente será adaptado automaticamente.
+   O programa continuará usando os mesmos identificadores de pedidos e pagamentos.
+5. O nome do usuário passa a ser também o seu nome de login. Avise às pessoas cadastradas
+   que devem entrar usando o nome exibido no cadastro ou seu e-mail.
+   Quando houver nomes repetidos, a migração acrescenta (2), (3), etc., para diferenciá-los.
+6. Confira Usuários, Clientes e Fechamento. Um contato do cadastro original tinha um número
+   de 12 dígitos sem código do país identificável e precisa de revisão manual.
+
+ALTERAÇÕES DESTA VERSÃO
+- Nome / usuário: campo único; login pelo nome completo ou e-mail.
+- Um único botão "+ Adicionar usuário".
+- Senha escolhida: mínimo 4 caracteres; senha provisória continua com 6 números.
+- Fechamento: exibe responsáveis pelos pedidos após o local.
+- Telefone opcional com máscara (00) 00000-0000 para celular brasileiro.
+- Financeiro: cadastra pedidos e edita clientes (inclusive status de inadimplência).
+- Excluir usuário continua revogando o acesso SEM excluir histórico de vendas e pagamentos.
+
+SEGURANÇA: quatro caracteres e PIN de seis dígitos são fracos para um serviço online.
+Use uma senha longa, 2FA e HTTPS. Faça backups independentes do servidor.

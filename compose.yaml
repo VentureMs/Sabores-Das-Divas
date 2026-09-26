@@ -1,0 +1,48 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    environment:
+      SDD_HOST: 0.0.0.0
+      SDD_PORT: 8080
+      SDD_DATA_DIR: /data
+      SDD_PUBLIC_ORIGIN: https://${SDD_DOMAIN:?Defina SDD_DOMAIN no arquivo .env}
+      SDD_SECURE_COOKIE: '1'
+    volumes:
+      - app_data:/data
+    expose:
+      - '8080'
+    networks: [web]
+  proxy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on: [app]
+    environment:
+      SDD_DOMAIN: ${SDD_DOMAIN:?Defina SDD_DOMAIN no arquivo .env}
+    ports:
+      - '80:80'
+      - '443:443'
+      - '443:443/udp'
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    networks: [web]
+  backup:
+    build: .
+    restart: unless-stopped
+    command: ["python", "-u", "server.py", "backup-loop"]
+    environment:
+      SDD_DATA_DIR: /data
+      SDD_BACKUP_DIR: /backups
+    volumes:
+      - app_data:/data
+      - backup_data:/backups
+    networks: [web]
+volumes:
+  app_data:
+  backup_data:
+  caddy_data:
+  caddy_config:
+networks:
+  web:

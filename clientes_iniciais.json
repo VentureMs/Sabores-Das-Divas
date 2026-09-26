@@ -1,0 +1,569 @@
+[
+  {
+    "id": "cad-2-5",
+    "name": "Thaina rosa Magazine luiza",
+    "location": "Shopping da Pedreira",
+    "store": "Magazine luiza",
+    "phone": "21 993934370",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-6",
+    "name": "Fernanda Toogood",
+    "location": "Shopping da Pedreira",
+    "store": "Toogood",
+    "phone": "21 995332018",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-7",
+    "name": "Aline Brinquedo",
+    "location": "Shopping da Pedreira",
+    "store": "Brinquedo",
+    "phone": "21 988360214",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-8",
+    "name": "Jéssica Parquinho",
+    "location": "Shopping da Pedreira",
+    "store": "Parquinho",
+    "phone": "21 978285151",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-9",
+    "name": "Lavínia Amavia",
+    "location": "Shopping da Pedreira",
+    "store": "Amavia",
+    "phone": "21 993973657",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-10",
+    "name": "Ingrid Pipox",
+    "location": "Shopping da Pedreira",
+    "store": "Pipox",
+    "phone": "21 991672332",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-11",
+    "name": "Thammy Mais que carro",
+    "location": "Shopping da Pedreira",
+    "store": "Mais que carro",
+    "phone": "21 960188720",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-12",
+    "name": "Ana Luiza Rj Cell",
+    "location": "Shopping da Pedreira",
+    "store": "Rj Cell",
+    "phone": "21 982179273",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-13",
+    "name": "Vivian Toogood",
+    "location": "Shopping da Pedreira",
+    "store": "Toogood",
+    "phone": "21 969709704",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-14",
+    "name": "Anny moura Johnny joy",
+    "location": "Shopping da Pedreira",
+    "store": "Johnny joy",
+    "phone": "21 991933964",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-15",
+    "name": "Vanessa Amavia",
+    "location": "Shopping da Pedreira",
+    "store": "Amavia",
+    "phone": "21 994760169",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-16",
+    "name": "Nathalia Lupo",
+    "location": "Shopping da Pedreira",
+    "store": "Lupo",
+    "phone": "21 979173832",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-17",
+    "name": "Tainá South",
+    "location": "Shopping da Pedreira",
+    "store": "South",
+    "phone": "21 970748433",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-18",
+    "name": "Nathi Di santini",
+    "location": "Shopping da Pedreira",
+    "store": "Di santini",
+    "phone": "21 993621954",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-19",
+    "name": "Ana Luiza Toogood",
+    "location": "Shopping da Pedreira",
+    "store": "Toogood",
+    "phone": "21 973859152",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-20",
+    "name": "Bruno Casas Bahia",
+    "location": "Shopping da Pedreira",
+    "store": "Casas Bahia",
+    "phone": "21 966107553",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-21",
+    "name": "Victoria Burger King",
+    "location": "Shopping da Pedreira",
+    "store": "Burger King",
+    "phone": "21 978740184",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-22",
+    "name": "Mariana Boticario",
+    "location": "Shopping da Pedreira",
+    "store": "Boticario",
+    "phone": "21 971645403",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-23",
+    "name": "Clarisse Gold",
+    "location": "Shopping da Pedreira",
+    "store": "Gold",
+    "phone": "21 991689397",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-24",
+    "name": "Daiana Bagaggio",
+    "location": "Shopping da Pedreira",
+    "store": "Bagaggio",
+    "phone": "21 972769659",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-25",
+    "name": "Renata Bagaggio",
+    "location": "Shopping da Pedreira",
+    "store": "Bagaggio",
+    "phone": "21 973487565",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-26",
+    "name": "Lucas Bagaggio",
+    "location": "Shopping da Pedreira",
+    "store": "Bagaggio",
+    "phone": "21 980564707",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-27",
+    "name": "Isabelle Johnny joy",
+    "location": "Shopping da Pedreira",
+    "store": "Johnny joy",
+    "phone": "21 980241414",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-28",
+    "name": "Isabelle Vasco",
+    "location": "Shopping da Pedreira",
+    "store": "Vasco",
+    "phone": "21 977405722",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-29",
+    "name": "Leandra Brasil Cacau",
+    "location": "Shopping da Pedreira",
+    "store": "Brasil Cacau",
+    "phone": "21 972584624",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-30",
+    "name": "Rafael Bio Mundo",
+    "location": "Shopping da Pedreira",
+    "store": "Bio Mundo",
+    "phone": "21 965502497",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-31",
+    "name": "Lauene Vimek",
+    "location": "Shopping da Pedreira",
+    "store": "Vimek",
+    "phone": "21 980416831",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-32",
+    "name": "Lani Volkswagen",
+    "location": "Shopping da Pedreira",
+    "store": "Volkswagen",
+    "phone": "21 985436517",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-33",
+    "name": "Rayssa Toulon",
+    "location": "Shopping da Pedreira",
+    "store": "Toulon",
+    "phone": "21 964040356",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-34",
+    "name": "Mary Brasil Cacau",
+    "location": "Shopping da Pedreira",
+    "store": "Brasil Cacau",
+    "phone": "21 992082438",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-35",
+    "name": "Suelen Natura",
+    "location": "Shopping da Pedreira",
+    "store": "Natura",
+    "phone": "21 975996692",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-36",
+    "name": "Jessica Natura",
+    "location": "Shopping da Pedreira",
+    "store": "Natura",
+    "phone": "21 979197211",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-37",
+    "name": "Alessandra Casas Bahia",
+    "location": "Shopping da Pedreira",
+    "store": "Casas Bahia",
+    "phone": "21 983504357",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-38",
+    "name": "Victor Taco",
+    "location": "Shopping da Pedreira",
+    "store": "Taco",
+    "phone": "21 974040790",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-39",
+    "name": "Maria arrezo",
+    "location": "Shopping da Pedreira",
+    "store": "arrezo",
+    "phone": "21 979587645",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-40",
+    "name": "Emily Taco",
+    "location": "Shopping da Pedreira",
+    "store": "Taco",
+    "phone": "21 993218602",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-41",
+    "name": "Bianca Fabrica de chocolate",
+    "location": "Shopping da Pedreira",
+    "store": "Fabrica de chocolate",
+    "phone": "21 992584481",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-42",
+    "name": "Carol Sonho dos pés",
+    "location": "Shopping da Pedreira",
+    "store": "Sonho dos pés",
+    "phone": "21 974900901",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-43",
+    "name": "Emily P Rouge",
+    "location": "Shopping da Pedreira",
+    "store": "Rouge",
+    "phone": "21 992951704",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-44",
+    "name": "FroxTT Villitale",
+    "location": "Shopping da Pedreira",
+    "store": "Villitale",
+    "phone": "21 974782988",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-45",
+    "name": "Willian Centauro",
+    "location": "Shopping da Pedreira",
+    "store": "Centauro",
+    "phone": "21 9771822254",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-46",
+    "name": "Thais Bagaggio",
+    "location": "Shopping da Pedreira",
+    "store": "Bagaggio",
+    "phone": "21 989406542",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-47",
+    "name": "Fabiane Duck diversoes",
+    "location": "Shopping da Pedreira",
+    "store": "Duck  diversoes",
+    "phone": "21 995409749",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-48",
+    "name": "Gabi Bagaggio",
+    "location": "Shopping da Pedreira",
+    "store": "Bagaggio",
+    "phone": "21 990412778",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-49",
+    "name": "Michelle Santa lola",
+    "location": "Shopping da Pedreira",
+    "store": "Santa lola",
+    "phone": "21 965977766",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-50",
+    "name": "Tifani Mc donalds",
+    "location": "Shopping da Pedreira",
+    "store": "Mc donalds",
+    "phone": "21 977459704",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-51",
+    "name": "Celma California copa",
+    "location": "Shopping da Pedreira",
+    "store": "California copa",
+    "phone": "21 986514016",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-52",
+    "name": "Tatiane Renner",
+    "location": "Shopping da Pedreira",
+    "store": "Renner",
+    "phone": "21 987000871",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-53",
+    "name": "Rayana Amavia",
+    "location": "Shopping da Pedreira",
+    "store": "Amavia",
+    "phone": "21 997163159",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-54",
+    "name": "Yuri Centauro",
+    "location": "Shopping da Pedreira",
+    "store": "Centauro",
+    "phone": "21 990153116",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-55",
+    "name": "Pamela Mais que carro",
+    "location": "Shopping da Pedreira",
+    "store": "Mais que carro",
+    "phone": "21 990105491",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-56",
+    "name": "Raiane rommanel",
+    "location": "Shopping da Pedreira",
+    "store": "rommanel",
+    "phone": "21 964639636",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-57",
+    "name": "Angelica Centauro",
+    "location": "Shopping da Pedreira",
+    "store": "Centauro",
+    "phone": "21 976195102",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-2-58",
+    "name": "Talita copenhagen",
+    "location": "Shopping da Pedreira",
+    "store": "copenhagen",
+    "phone": "21 975032752",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-5",
+    "name": "Vanessa Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-6",
+    "name": "Edilza Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-7",
+    "name": "Oseias Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-8",
+    "name": "Juliana Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-9",
+    "name": "Kevin Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-10",
+    "name": "Felipe Mais b. Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-11",
+    "name": "Jessica Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-12",
+    "name": "Rogerio Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  },
+  {
+    "id": "cad-3-13",
+    "name": "Eduardo Mais b.",
+    "location": "Outros",
+    "store": "Drogaria Mais Barato",
+    "phone": "",
+    "notes": "",
+    "inadimplente": false
+  }
+]
