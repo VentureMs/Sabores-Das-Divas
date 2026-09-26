@@ -28,7 +28,7 @@ os.umask(0o077)
 ROOT = Path(__file__).resolve().parent
 DATA = Path(os.environ.get('SDD_DATA_DIR', str(ROOT / 'data')))
 DB = DATA / 'sabores.sqlite3'
-HOST = os.environ.get('SDD_HOST', '127.0.0.1')
+HOST = os.environ.get('SDD_HOST', '0.0.0.0')
 PORT = int(os.environ.get('SDD_PORT', '8080'))
 ORIGIN = os.environ.get('SDD_PUBLIC_ORIGIN', f'http://127.0.0.1:{PORT}').rstrip('/')
 SECURE_COOKIE = os.environ.get('SDD_SECURE_COOKIE', '0' if ORIGIN.startswith('http://127.') else '1') == '1'
